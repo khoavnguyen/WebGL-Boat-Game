@@ -1,0 +1,15 @@
+1264863371
+2
+1440 900 2720 1024
+329282 CabinetWClass !logger
+-4 1028 1436 2724 
+524450 MozillaUIWindowClass Bootcamp External Monitor on MacBook Pro - MacNN 
+-4 1028 1436 2724 
+263686 AtlAxWin80 Adobe Download Manager
+-32000 -31969 -32000 -31840 
+458918 Afx:00400000:b:00010013:00000006:0009026D NVIDIA Control Panel
+-32000 -31969 -32000 -31840 
+66350 tSkMainForm.UnicodeClass Skype™ - misa261188
+-32000 -31969 -32000 -31840 
+65802 Progman Program Manager
+0 1024 0 2720 

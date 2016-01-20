@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="addtabbeside.css" type="text/css"?>
+   <overlay id="addtabbeside-overlay"
+            xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+     <script type="application/x-javascript" src="addtabbeside.js"/>
+
+
+
+
+<toolbox id="navigator-toolbox">
+
+	<toolbar id="RankToolbar" toolbarname="Rank Toolbar" accesskey="T" class="chromeclass-toolbar" context="toolbar-context-menu" hidden="false" persist="hidden">
+
+
+		<toolbarbutton id="Tab0" label="Tab0" oncommand="alert('testing');">
+			Testing
+		</toolbarbutton>
+		
+		<toolbarseparator/>
+
+		<toolbarbutton id="Tab1" label="Tab1" oncommand="gBrowser.tabContainer.selectedIndex=0;">
+			To 1st tab
+		</toolbarbutton>
+		
+		<toolbarseparator/>
+
+		<toolbarbutton id="Tab2" label="Tab2" oncommand="toolbr = document.getElementById('RankToolbar');toolbr.insertItem('separator');">			
+			New separator
+		</toolbarbutton>
+
+	</toolbar>
+</toolbox>
+
+
+   </overlay>

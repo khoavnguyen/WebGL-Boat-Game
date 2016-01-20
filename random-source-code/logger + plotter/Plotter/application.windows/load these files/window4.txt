@@ -1,0 +1,2260 @@
+1264863371
+Opened
+Handle: 525938   Classname: #32770   Title: logger
+390 481 662 778 
+1264863371
+Closed
+Handle: 525938   Classname: #32770   Title: logger
+390 481 662 778 
+1264863371
+Opened
+Handle: 525938   Classname: #32770   Title: logger
+390 481 662 778 
+1264863371
+Closed
+Handle: 525938   Classname: #32770   Title: logger
+390 481 662 778 
+1264863380
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+160 760 1643 2443 
+1264863381
+Clickactive
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Bootcamp External Monitor on MacBook Pro - MacNN 
+-4 1028 1436 2724 
+1264863490
+Opened
+Handle: 525820   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264863490
+Active
+Handle: 525820   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264863490
+Moved
+Handle: 525820   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264863492
+Closed
+Handle: 525820   Classname: Notepad   Title: mouse4.txt - Notepad
+29 751 22 982 
+1264863494
+Opened
+Handle: 722428   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264863494
+Active
+Handle: 722428   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264863494
+Moved
+Handle: 722428   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264863503
+Closed
+Handle: 722428   Classname: Notepad   Title: window4.txt - Notepad
+29 751 22 982 
+1264863504
+Active
+Handle: 66350   Classname: tSkMainForm.UnicodeClass   Title: Skype™ - misa261188
+-32000 -31969 -32000 -31840 
+1264863504
+Active
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+-4 1028 1436 2724 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+86 824 1527 2521 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+86 824 1520 2514 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+86 824 1507 2501 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+87 825 1492 2486 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+88 826 1476 2470 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+88 826 1454 2448 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+89 827 1431 2425 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+89 827 1412 2406 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+89 827 1379 2373 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+95 833 1282 2276 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+99 837 1243 2237 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+104 842 1203 2197 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+108 846 1159 2153 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+115 853 1119 2113 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+120 858 1080 2074 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+128 866 1035 2029 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+135 873 1001 1995 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+144 882 960 1954 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+151 889 921 1915 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+162 900 880 1874 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+171 909 840 1834 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+180 918 800 1794 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+187 925 765 1759 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+205 943 682 1676 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+217 955 616 1610 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+222 960 592 1586 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+226 964 568 1562 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+230 968 550 1544 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+233 971 532 1526 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+237 975 513 1507 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+239 977 498 1492 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+241 979 483 1477 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+243 981 465 1459 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+245 983 450 1444 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+245 983 437 1431 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+246 984 422 1416 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+246 984 408 1402 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+246 984 394 1388 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+246 984 381 1375 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+246 984 368 1362 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+246 984 355 1349 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+243 981 322 1316 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+243 981 311 1305 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+240 978 302 1296 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+239 977 294 1288 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+238 976 287 1281 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+236 974 280 1274 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+234 972 274 1268 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+233 971 270 1264 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+232 970 267 1261 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+231 969 267 1261 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+227 965 266 1260 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+225 963 265 1259 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+217 955 260 1254 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+212 950 257 1251 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+206 944 254 1248 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+200 938 249 1243 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+191 929 243 1237 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+184 922 238 1232 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+175 913 233 1227 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+168 906 228 1222 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+162 900 223 1217 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+155 893 217 1211 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+148 886 212 1206 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+142 880 207 1201 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+136 874 202 1196 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+133 871 199 1193 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+125 863 195 1189 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+124 862 194 1188 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+123 861 193 1187 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+120 858 193 1187 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+117 855 192 1186 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+114 852 192 1186 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+113 851 192 1186 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+113 851 191 1185 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+111 849 191 1185 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+110 848 190 1184 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+109 847 189 1183 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+107 845 188 1182 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+106 844 187 1181 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+103 841 186 1180 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+102 840 185 1179 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+101 839 185 1179 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+98 836 184 1178 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+97 835 183 1177 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+95 833 183 1177 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+92 830 182 1176 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+89 827 181 1175 
+1264863508
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+84 822 180 1174 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+80 818 179 1173 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+77 815 179 1173 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+75 813 178 1172 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+73 811 177 1171 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+69 807 176 1170 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+67 805 175 1169 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+65 803 174 1168 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+63 801 174 1168 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+61 799 173 1167 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+59 797 172 1166 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+57 795 172 1166 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+55 793 172 1166 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+54 792 171 1165 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+53 791 170 1164 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+52 790 170 1164 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+51 789 170 1164 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+50 788 170 1164 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+49 787 170 1164 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+48 786 170 1164 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+46 784 170 1164 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+45 783 170 1164 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+43 781 170 1164 
+1264863509
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+42 780 170 1164 
+1264863512
+Clickactive
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+42 780 170 1164 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+42 780 176 1170 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+42 780 181 1175 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+42 780 189 1183 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+42 780 201 1195 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+42 780 236 1230 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+43 781 264 1258 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+43 781 291 1285 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+44 782 324 1318 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+46 784 363 1357 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+48 786 401 1395 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+49 787 440 1434 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+53 791 484 1478 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+53 791 527 1521 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+54 792 571 1565 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+54 792 614 1608 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+54 792 663 1657 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+54 792 701 1695 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+50 788 745 1739 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+48 786 784 1778 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+44 782 828 1822 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+38 776 926 1920 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+34 772 959 1953 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+33 771 998 1992 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+29 767 1031 2025 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+28 766 1065 2059 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+26 764 1103 2097 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+22 760 1137 2131 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+21 759 1157 2151 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+21 759 1173 2167 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+19 757 1188 2182 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+19 757 1204 2198 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+17 755 1221 2215 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+16 754 1238 2232 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+15 753 1253 2247 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1297 2291 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1312 2306 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1325 2319 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1336 2330 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1346 2340 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1355 2349 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1362 2356 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1370 2364 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1377 2371 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1384 2378 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1389 2383 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1396 2390 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+13 751 1402 2396 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+14 752 1407 2401 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+16 754 1412 2406 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+19 757 1421 2415 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+22 760 1426 2420 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+25 763 1430 2424 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+30 768 1433 2427 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+33 771 1438 2432 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+40 778 1443 2437 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+45 783 1449 2443 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+50 788 1456 2450 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+54 792 1462 2456 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+58 796 1469 2463 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+62 800 1475 2469 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+65 803 1481 2475 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+68 806 1488 2482 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+71 809 1494 2488 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+74 812 1509 2503 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+76 814 1515 2509 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+77 815 1521 2515 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+79 817 1526 2520 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+80 818 1532 2526 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+81 819 1538 2532 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+83 821 1543 2537 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+83 821 1549 2543 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+83 821 1554 2548 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+84 822 1557 2551 
+1264863512
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+84 822 1560 2554 
+1264863519
+Opened
+Handle: 1771004   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264863519
+Active
+Handle: 1771004   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264863519
+Moved
+Handle: 1771004   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264863536
+Moved
+Handle: 1771004   Classname: Notepad   Title: window4.txt - Notepad
+-32000 -31969 -32000 -31840 
+1264863538
+Clickactive
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+84 822 1560 2554 
+1264863556
+Clickactive
+Handle: 65802   Classname: Progman   Title: Program Manager
+0 1024 0 2720 
+1264863581
+Active
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Dual monior on Macbook with boot camp - Mac Forum
+84 822 1560 2554 
+1264863602
+Moved
+Handle: 1771004   Classname: Notepad   Title: window4.txt - Notepad
+29 751 22 982 
+1264863607
+Active
+Handle: 1771004   Classname: Notepad   Title: window4.txt - Notepad
+-32000 -31969 -32000 -31840 
+1264863607
+Moved
+Handle: 1771004   Classname: Notepad   Title: window4.txt - Notepad
+-32000 -31969 -32000 -31840 
+1264863607
+Active
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+84 822 1560 2554 
+1264863607
+Moved
+Handle: 1771004   Classname: Notepad   Title: window4.txt - Notepad
+29 751 22 982 
+1264863609
+Closed
+Handle: 1771004   Classname: Notepad   Title: window4.txt - Notepad
+29 751 22 982 
+1264863610
+Active
+Handle: 329282   Classname: CabinetWClass   Title: logs
+160 760 1643 2443 
+1264863612
+Opened
+Handle: 1048684   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264863612
+Active
+Handle: 1048684   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264863612
+Moved
+Handle: 1048684   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264863633
+Moved
+Handle: 1048684   Classname: Notepad   Title: window4.txt - Notepad
+-32000 -31969 -32000 -31840 
+1264863633
+Active
+Handle: 329282   Classname: CabinetWClass   Title: logs
+160 760 1643 2443 
+1264863634
+Clickactive
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+84 822 1560 2554 
+1264863637
+Moved
+Handle: 1048684   Classname: Notepad   Title: window4.txt - Notepad
+29 751 22 982 
+1264863645
+Closed
+Handle: 1048684   Classname: Notepad   Title: window4.txt - Notepad
+29 751 22 982 
+1264863795
+Opened
+Handle: 656904   Classname: CabinetWClass   Title: Control Panel
+29 629 22 822 
+1264863795
+Moved
+Handle: 656904   Classname: CabinetWClass   Title: Control Panel
+29 629 22 822 
+1264863886
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+142 742 228 1028 
+1264863886
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: can't make my external monitor the primary monito
+75 813 135 1129 
+1264863898
+Active
+Handle: 458918   Classname: Afx:00400000:b:00010013:00000006:0009026D   Title: NVIDIA Control Panel
+0 718 15 989 
+1264863898
+Moved
+Handle: 458918   Classname: Afx:00400000:b:00010013:00000006:0009026D   Title: NVIDIA Control Panel
+0 718 15 989 
+1264863898
+Moved
+Handle: 458918   Classname: Afx:00400000:b:00010013:00000006:0009026D   Title: NVIDIA Control Panel
+-32000 -31969 -32000 -31840 
+1264863899
+Moved
+Handle: 458918   Classname: Afx:00400000:b:00010013:00000006:0009026D   Title: NVIDIA Control Panel
+0 718 15 989 
+1264863921
+Clickactive
+Handle: 524450   Classname: MozillaUIWindowClass   Title: can't make my external monitor the primary monito
+75 813 135 1129 
+1264863922
+Active
+Handle: 656904   Classname: CabinetWClass   Title: Control Panel
+29 629 22 822 
+1264863923
+Active
+Handle: 656904   Classname: CabinetWClass   Title: Control Panel
+-32000 -31969 -32000 -31840 
+1264863923
+Moved
+Handle: 656904   Classname: CabinetWClass   Title: Control Panel
+-32000 -31969 -32000 -31840 
+1264863923
+Active
+Handle: 524450   Classname: MozillaUIWindowClass   Title: can't make my external monitor the primary monito
+75 813 135 1129 
+1264863924
+Active
+Handle: 524450   Classname: MozillaUIWindowClass   Title: can't make my external monitor the primary monito
+75 813 135 1129 
+1264863926
+Clickactive
+Handle: 65802   Classname: Progman   Title: Program Manager
+0 900 0 1440 
+1264863957
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+122 722 324 1124 
+1264863957
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: can't make my external monitor the primary monito
+0 738 192 1186 
+1264863959
+Moved
+Handle: 458918   Classname: Afx:00400000:b:00010013:00000006:0009026D   Title: NVIDIA Control Panel
+0 718 21 995 
+1264863965
+Opened
+Handle: 722088   Classname: #32770   Title: PersonalVibe2
+234 503 777 1270 
+1264863969
+Closed
+Handle: 722088   Classname: #32770   Title: PersonalVibe2
+185 454 433 926 
+1264863974
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: can't make my external monitor the primary monito
+0 738 136 1130 
+1264863974
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+143 743 229 1029 
+1264863974
+Moved
+Handle: 458918   Classname: Afx:00400000:b:00010013:00000006:0009026D   Title: NVIDIA Control Panel
+0 718 16 990 
+1264863974
+Active
+Handle: 458918   Classname: Afx:00400000:b:00010013:00000006:0009026D   Title: NVIDIA Control Panel
+0 718 21 995 
+1264863974
+Moved
+Handle: 458918   Classname: Afx:00400000:b:00010013:00000006:0009026D   Title: NVIDIA Control Panel
+0 718 21 995 
+1264863974
+Active
+Handle: 524450   Classname: MozillaUIWindowClass   Title: can't make my external monitor the primary monito
+0 738 192 1186 
+1264863974
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: can't make my external monitor the primary monito
+0 738 192 1186 
+1264863974
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+122 722 324 1124 
+1264863977
+Moved
+Handle: 458918   Classname: Afx:00400000:b:00010013:00000006:0009026D   Title: NVIDIA Control Panel
+0 718 16 990 
+1264864002
+Closed
+Handle: 458918   Classname: Afx:00400000:b:00010013:00000006:0009026D   Title: NVIDIA Control Panel
+0 718 16 990 
+1264864101
+Clickactive
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Is there any way to make an external monitor the 
+0 738 192 1186 
+1264864118
+Active
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-32000 -31969 -32000 -31840 
+1264864118
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-32000 -31969 -32000 -31840 
+1264864119
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+-32000 -31969 -32000 -31840 
+1264864119
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+122 722 324 1124 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+121 721 329 1129 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+120 720 331 1131 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+119 719 334 1134 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+119 719 341 1141 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+117 717 350 1150 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+114 714 387 1187 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+113 713 414 1214 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+111 711 448 1248 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+108 708 481 1281 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+106 706 520 1320 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+104 704 564 1364 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+104 704 612 1412 
+1264864120
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+102 702 667 1467 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+102 702 726 1526 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+100 700 781 1581 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+100 700 840 1640 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+100 700 900 1700 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+100 700 965 1765 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+100 700 1105 1905 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+98 698 1154 1954 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+98 698 1203 2003 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+94 694 1252 2052 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+92 692 1301 2101 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+86 686 1346 2146 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+83 683 1390 2190 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+79 679 1434 2234 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+75 675 1473 2273 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+74 674 1506 2306 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+72 672 1539 2339 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+70 670 1567 2367 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+69 669 1590 2390 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+68 668 1612 2412 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+66 666 1635 2435 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+65 665 1655 2455 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+63 663 1709 2509 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+62 662 1729 2529 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+61 661 1744 2544 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+61 661 1757 2557 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+59 659 1768 2568 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+58 658 1777 2577 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+57 657 1785 2585 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+56 656 1792 2592 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+55 655 1799 2599 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+55 655 1804 2604 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+54 654 1810 2610 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+54 654 1814 2614 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+53 653 1817 2617 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+53 653 1816 2616 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+54 654 1815 2615 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+54 654 1814 2614 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+56 656 1813 2613 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+57 657 1810 2610 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+59 659 1807 2607 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+60 660 1805 2605 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+62 662 1802 2602 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+65 665 1797 2597 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+66 666 1793 2593 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+71 671 1785 2585 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+74 674 1779 2579 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+77 677 1771 2571 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+79 679 1762 2562 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+82 682 1751 2551 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+84 684 1738 2538 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+87 687 1726 2526 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+88 688 1713 2513 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+89 689 1698 2498 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+89 689 1685 2485 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+90 690 1649 2449 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+91 691 1636 2436 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+91 691 1625 2425 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+91 691 1616 2416 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+91 691 1609 2409 
+1264864121
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+91 691 1605 2405 
+1264864123
+Active
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+0 738 192 1186 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+0 738 201 1195 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+0 738 215 1209 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+0 738 233 1227 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+0 738 255 1249 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+1 739 288 1282 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+1 739 331 1325 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+1 739 380 1374 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+1 739 439 1433 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+1 739 504 1498 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+1 739 569 1563 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+1 739 645 1639 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+1 739 720 1714 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+1 739 807 1801 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+3 741 883 1877 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+5 743 1034 2028 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+5 743 1206 2200 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+5 743 1271 2265 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+5 743 1336 2330 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+5 743 1390 2384 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+3 741 1439 2433 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+1 739 1483 2477 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-3 735 1527 2521 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-5 733 1566 2560 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-8 730 1605 2599 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-10 728 1633 2627 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1661 2655 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1683 2677 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1703 2697 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1714 2708 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1755 2749 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1761 2755 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1768 2762 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1775 2769 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1780 2774 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1786 2780 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1790 2784 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1794 2788 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1798 2792 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1801 2795 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1811 2805 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1818 2812 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-12 726 1825 2819 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-11 727 1833 2827 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-10 728 1840 2834 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-10 728 1848 2842 
+1264864124
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-10 728 1854 2848 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-8 730 1859 2853 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-7 731 1864 2858 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-6 732 1866 2860 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-5 733 1866 2860 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-4 734 1866 2860 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-3 735 1865 2859 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-2 736 1864 2858 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+0 738 1862 2856 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+1 739 1859 2853 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+3 741 1857 2851 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+5 743 1853 2847 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+7 745 1847 2841 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+12 750 1839 2833 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+16 754 1827 2821 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+20 758 1811 2805 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+22 760 1791 2785 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+25 763 1770 2764 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+28 766 1747 2741 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+29 767 1727 2721 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+31 769 1707 2701 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+31 769 1691 2685 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+32 770 1674 2668 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+32 770 1636 2630 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+33 771 1628 2622 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+33 771 1622 2616 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+33 771 1621 2615 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+33 771 1620 2614 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+34 772 1619 2613 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+34 772 1617 2611 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+35 773 1613 2607 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+36 774 1606 2600 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+37 775 1599 2593 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+39 777 1589 2583 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+39 777 1580 2574 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+40 778 1569 2563 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+40 778 1559 2553 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+40 778 1548 2542 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+40 778 1536 2530 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+41 779 1524 2518 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+43 781 1512 2506 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+44 782 1499 2493 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+44 782 1487 2481 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+44 782 1459 2453 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+44 782 1452 2446 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+44 782 1448 2442 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+44 782 1447 2441 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+44 782 1448 2442 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+44 782 1450 2444 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+45 783 1454 2448 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+46 784 1457 2451 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+48 786 1460 2454 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+48 786 1463 2457 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+50 788 1468 2462 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+51 789 1472 2466 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+52 790 1476 2470 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+53 791 1481 2475 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+54 792 1485 2479 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+54 792 1489 2483 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+55 793 1492 2486 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+56 794 1494 2488 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+56 794 1495 2489 
+1264864125
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+56 794 1496 2490 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+58 796 1500 2494 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+60 798 1502 2496 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+64 802 1503 2497 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+68 806 1505 2499 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+75 813 1508 2502 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+82 820 1510 2504 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+92 830 1512 2506 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+105 843 1514 2508 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+112 850 1515 2509 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+122 860 1517 2511 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+132 870 1519 2513 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+143 881 1521 2515 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+163 901 1522 2516 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+180 918 1523 2517 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+184 922 1523 2517 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+187 925 1523 2517 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+188 926 1523 2517 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+188 926 1524 2518 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+187 925 1526 2520 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+187 925 1529 2523 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+186 924 1532 2526 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+185 923 1535 2529 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+185 923 1538 2532 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+185 923 1540 2534 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+185 923 1541 2535 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+185 923 1542 2536 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+184 922 1542 2536 
+1264864127
+Moved
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+183 921 1542 2536 
+1264864128
+Clickactive
+Handle: 329282   Classname: CabinetWClass   Title: logs
+91 691 1605 2405 
+1264864132
+Opened
+Handle: 2883788   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264864132
+Active
+Handle: 2883788   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264864132
+Moved
+Handle: 2883788   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264864141
+Clickactive
+Handle: 524450   Classname: MozillaUIWindowClass   Title: SQL server sqlnci.msi - Tìm v?i Google - Mozilla 
+183 921 1542 2536 
+1264864148
+Clickactive
+Handle: 2883788   Classname: Notepad   Title: window4.txt - Notepad
+29 751 22 982 
+1264864148
+Closed
+Handle: 2883788   Classname: Notepad   Title: window4.txt - Notepad
+29 751 22 982 
+1264864148
+Active
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Mozilla Firefox
+183 921 1542 2536 
+1264864151
+Opened
+Handle: 2949324   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264864151
+Active
+Handle: 2949324   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264864151
+Moved
+Handle: 2949324   Classname: Notepad   Title: Untitled - Notepad
+29 751 22 982 
+1264864159
+Closed
+Handle: 2949324   Classname: Notepad   Title: window4.txt - Notepad
+29 751 22 982 
+1264864159
+Active
+Handle: 329282   Classname: CabinetWClass   Title: logs
+91 691 1605 2405 
+1264864160
+Moved
+Handle: 329282   Classname: CabinetWClass   Title: logs
+10000 10600 10000 10800 
+1264864160
+Closed
+Handle: 329282   Classname: CabinetWClass   Title: logs
+10000 10600 10000 10800 
+1264864160
+Active
+Handle: 524450   Classname: MozillaUIWindowClass   Title: Mozilla Firefox
+183 921 1542 2536 
+1264864172
+Active
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-4 1028 1436 2724 
+1264864172
+Closed
+Handle: 524450   Classname: MozillaUIWindowClass   Title: MacbookPro bootcamp external monitor problem - NV
+-4 1028 1436 2724 
+1264864172
+Clickactive
+Handle: 65802   Classname: Progman   Title: Program Manager
+0 1024 0 2720 
+1264864179
+Opened
+Handle: 2162868   Classname: CabinetWClass   Title: My Computer
+-4 1028 1436 2724 
+1264864179
+Moved
+Handle: 2162868   Classname: CabinetWClass   Title: My Computer
+-4 1028 1436 2724 
+1264864203
+Opened
+Handle: 65912   Classname: ATL:005CF020   Title: Google Talk
+-32768 -32734 -32768 -32645 
+1264864206
+Opened
+Handle: 1704978   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Status Writer
+145 878 1550 2578 
+1264864206
+Active
+Handle: 1704978   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Status Writer
+145 878 1550 2578 
+1264864206
+Moved
+Handle: 1704978   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Status Writer
+145 878 1550 2578 
+1264864209
+Opened
+Handle: 1770836   Classname: MozillaUIWindowClass   Title: Mozilla Firefox
+-4 1028 1436 2724 
+1264864212
+Active
+Handle: 1770836   Classname: MozillaUIWindowClass   Title: Mozilla Firefox
+-4 1028 1436 2724 
+1264864214
+Moved
+Handle: 1704978   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Status Writer
+-4 1028 1436 2724 
+1264864223
+Closed
+Handle: 1442864   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Personal Vibe Playback
+174 687 1572 2287 
+1264864224
+Active
+Handle: 1442864   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Personal Vibe Playback
+255 768 1722 2437 
+1264864224
+Moved
+Handle: 1442864   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Personal Vibe Playback
+255 768 1722 2437 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+867 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+864 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+861 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+858 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+855 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+852 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+849 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+846 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+843 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+840 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+837 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+834 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+831 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+828 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+826 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+823 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+819 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+817 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+814 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+811 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+808 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+805 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+802 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+799 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+796 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+793 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+790 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+787 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+784 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+781 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+778 870 1176 1440 
+1264864300
+Moved
+Handle: 2688228   Classname: Google Notification   Title: Google Notification
+775 870 1176 1440 
+1264864310
+Active
+Handle: 1704978   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Status Writer
+-4 1028 1436 2724 
+1264864311
+Closed
+Handle: 1704978   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Status Writer
+-4 1028 1436 2724 
+1264864311
+Active
+Handle: 1770836   Classname: MozillaUIWindowClass   Title: Gmail - Inbox (2) - misa042forever@gmail.com - Mo
+-4 1028 1436 2724 
+1264864321
+Opened
+Handle: 1312010   Classname: Afx:00400000:b:00010013:00000006:00ED0397   Title: NVIDIA Control Panel
+0 718 16 990 
+1264864321
+Moved
+Handle: 1312010   Classname: Afx:00400000:b:00010013:00000006:00ED0397   Title: NVIDIA Control Panel
+0 718 16 990 
+1264864329
+Moved
+Handle: 2162868   Classname: CabinetWClass   Title: PersonalVibe2
+-4 904 -4 1444 
+1264864332
+Moved
+Handle: 1312010   Classname: Afx:00400000:b:00010013:00000006:00ED0397   Title: NVIDIA Control Panel
+0 718 15 989 
+1264864336
+Closed
+Handle: 1312010   Classname: Afx:00400000:b:00010013:00000006:00ED0397   Title: NVIDIA Control Panel
+0 718 15 989 
+1264864337
+Opened
+Handle: 1900722   Classname: #32770   Title: PersonalVibe2
+362 631 393 886 
+1264864338
+Closed
+Handle: 1900722   Classname: #32770   Title: PersonalVibe2
+362 631 393 886 
+1264864343
+Clickactive
+Handle: 1770836   Classname: MozillaUIWindowClass   Title: Gmail - Phân công công vi?c - misa042forever@gmai
+-4 998 -4 1284 
+1264864363
+Active
+Handle: 66350   Classname: tSkMainForm.UnicodeClass   Title: Skype™ - misa261188
+-32000 -31969 -32000 -31840 
+1264864363
+Moved
+Handle: 66350   Classname: tSkMainForm.UnicodeClass   Title: Skype™ - misa261188
+116 767 157 1119 
+1264864369
+Active
+Handle: 65912   Classname: ATL:005CF020   Title: Google Talk
+-32768 -32318 -32768 -32508 
+1264864369
+Closed
+Handle: 65912   Classname: ATL:005CF020   Title: Google Talk
+-32768 -32318 -32768 -32508 
+1264864370
+Active
+Handle: 1770836   Classname: MozillaUIWindowClass   Title: Gmail - Inbox - misa042forever@gmail.com - Mozill
+-4 998 -4 1284 
+1264864373
+Clickactive
+Handle: 1770836   Classname: MozillaUIWindowClass   Title: Gmail - Inbox - misa042forever@gmail.com - Mozill
+-4 998 -4 1284 
+1264864458
+Opened
+Handle: 1639540   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Database Publishing Wizard
+29 478 22 515 
+1264864458
+Moved
+Handle: 1639540   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Database Publishing Wizard
+29 478 22 515 
+1264864482
+Active
+Handle: 722130   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Database Publishing Wizard
+156 351 0 611 
+1264864482
+Moved
+Handle: 722130   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Database Publishing Wizard
+156 351 0 611 
+1264864485
+Active
+Handle: 1639540   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Database Publishing Wizard
+29 478 22 515 
+1264864502
+Active
+Handle: 853174   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Database Publishing Wizard
+156 351 0 611 
+1264864502
+Moved
+Handle: 853174   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Database Publishing Wizard
+156 351 0 611 
+1264864571
+Moved
+Handle: 66350   Classname: tSkMainForm.UnicodeClass   Title: Skype™ - misa261188
+-32000 -31969 -32000 -31840 
+1264864573
+Active
+Handle: 1639540   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Database Publishing Wizard
+29 478 22 515 
+1264864621
+Moved
+Handle: 66350   Classname: tSkMainForm.UnicodeClass   Title: Skype™ - misa261188
+116 767 157 1119 
+1264864623
+Active
+Handle: 66350   Classname: tSkMainForm.UnicodeClass   Title: Skype™ - misa261188
+-32000 -31969 -32000 -31840 
+1264864623
+Moved
+Handle: 66350   Classname: tSkMainForm.UnicodeClass   Title: Skype™ - misa261188
+-32000 -31969 -32000 -31840 
+1264864626
+Active
+Handle: 1639540   Classname: WindowsForms10.Window.8.app.0.378734a   Title: Database Publishing Wizard
+29 478 22 515 
+1264864648
+Active
+Handle: 1770836   Classname: MozillaUIWindowClass   Title: Gmail - Re: 1 y tuong - misa042forever@gmail.com 
+-4 998 -4 1284 
+1264864656
+Active
+Handle: 1770836   Classname: MozillaUIWindowClass   Title: Gmail - Re: 1 y tuong - misa042forever@gmail.com 
+-4 998 -4 1284 

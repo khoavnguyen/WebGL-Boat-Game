@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="addtabbeside.css" type="text/css"?>
+<overlay id="addtabbeside-overlay"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script type="application/x-javascript" src="addtabbeside.js"/>
+
+
+
+
+  <toolbox id="navigator-toolbox">
+
+    <toolbar id="RankToolbar" toolbarname="Rank Toolbar" accesskey="T" class="chromeclass-toolbar" 
+            context="toolbar-context-menu" hidden="false" persist="hidden" height="30" >
+      <hbox id="TabDummy" flex="1">
+        <toolbarseparator/>
+
+        <toolbarbutton id="Tab0" width="150" label="Placeholder" oncommand="AddTabBeside.onDummyClick(event, 0);" hidden="true"/>
+        <toolbarseparator id="Sep0" hidden ="true"/>
+
+        <toolbarbutton id="Tab1" width="150" label="Placeholder" oncommand="AddTabBeside.onDummyClick(event, 1);" hidden="true"/>
+        <toolbarseparator id="Sep1" hidden ="true"/>
+
+        <toolbarbutton id="Tab2" width="150" label="Placeholder" oncommand="AddTabBeside.onDummyClick(event, 2);" hidden="true"/>
+        <toolbarseparator id="Sep2" hidden ="true"/>
+
+        <toolbarbutton id="Tab3" width="150" label="Placeholder" oncommand="AddTabBeside.onDummyClick(event, 3);" hidden="true"/>
+        <toolbarseparator id="Sep3" hidden ="true"/>
+
+        <toolbarbutton id="Tab4" width="150" label="Placeholder" oncommand="AddTabBeside.onDummyClick(event, 4);" hidden="true"/>
+        <toolbarseparator id="Sep4" hidden ="true"/>
+
+
+      </hbox>
+      <hbox>
+        <toolbarseparator/>
+        <toolbarbutton id="MarkedTabs" width="80" label="Marked" type="menu">
+          <menupopup>
+            <menuitem label="Marked tab 1"/>
+            <menuitem label="chua dung den"/>
+          </menupopup>
+        </toolbarbutton>
+      </hbox>
+    </toolbar>
+  </toolbox>
+
+
+</overlay>

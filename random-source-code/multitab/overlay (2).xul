@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="addtabbeside.css" type="text/css"?>
+<overlay id="addtabbeside-overlay"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script type="application/x-javascript" src="addtabbeside.js"/>
+
+
+
+
+  <toolbox id="navigator-toolbox">
+
+    <toolbar id="RankToolbar" toolbarname="Rank Toolbar" class="chromeclass-toolbar" 
+            context="toolbar-context-menu" hidden="false" persist="hidden" height="30" >
+      <hbox id="TabDummy" flex="1">
+        <toolbarseparator/>
+
+        <toolbarbutton id="Tab0" width="150" label="Placeholder" oncommand="AddTabBeside.onDummyClick(event, 0);" hidden="true"/>
+        <toolbarseparator id="Sep0" hidden ="true"/>
+
+        <toolbarbutton id="Tab1" width="150" label="Placeholder" oncommand="AddTabBeside.onDummyClick(event, 1);" hidden="true"/>
+        <toolbarseparator id="Sep1" hidden ="true"/>
+
+        <toolbarbutton id="Tab2" width="150" label="Placeholder" oncommand="AddTabBeside.onDummyClick(event, 2);" hidden="true"/>
+        <toolbarseparator id="Sep2" hidden ="true"/>
+
+        <toolbarbutton id="Tab3" width="150" label="Placeholder" oncommand="AddTabBeside.onDummyClick(event, 3);" hidden="true"/>
+        <toolbarseparator id="Sep3" hidden ="true"/>
+
+        <toolbarbutton id="Tab4" width="150" label="Placeholder" oncommand="AddTabBeside.onDummyClick(event, 4);" hidden="true"/>
+        <toolbarseparator id="Sep4" hidden ="true"/>
+
+
+      </hbox>
+      
+      <hbox>
+        <toolbarseparator/>
+        <toolbarbutton id="Mark" width="80" label="Mark" oncommand="AddTabBeside.onMarkClick(event);" hidden="false" type="menu-button">
+          <menupopup id="markedList">
+          </menupopup>
+        </toolbarbutton>
+        
+        <toolbarseparator/>
+        <toolbarbutton id="markButton" width="80" label="Mark" accesskey="M" oncommand="AddTabBeside.onMarkClick(event);" hidden="false" type="menu-button">
+	          <menupopup>
+	            <menuitem id="unmarkAll" label="Unmark all tabs" oncommand="AddTabBeside.onUnmarkAllTabsClick(event);event.stopPropagation();" />
+	          </menupopup>
+	     </toolbarbutton>
+
+        <toolbarseparator/>
+        <toolbarbutton id="showButton" width="60" label="Show" accesskey="S" oncommand="AddTabBeside.onShowClick(event);" hidden="false"/>
+        <toolbarseparator/>
+      </hbox>
+
+    </toolbar>
+
+    <toolbar id="MarkedToolbar" toolbarname="MarkedToolbar" accesskey="U" class="chromeclass-toolbar" 
+            context="toolbar-context-menu" hidden="true" height="30" >
+      <hbox id="MarkedTab" flex="1">
+        <toolbarseparator/>
+        <hbox id="test">
+          <toolbarbutton width="150" label="Placeholder" oncommand="aa=document.getElementById('test');aa.setAttribute('hidden', true);"/>
+          <toolbarseparator/>
+        </hbox>
+      </hbox>
+    </toolbar>
+  </toolbox>
+
+
+</overlay>

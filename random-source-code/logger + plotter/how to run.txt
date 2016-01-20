@@ -1,0 +1,3 @@
+Version 1.19. Final version is lost. 
+Manually create a folder named "logs" in C: before running logger
+Run plotter with the log files created by logger

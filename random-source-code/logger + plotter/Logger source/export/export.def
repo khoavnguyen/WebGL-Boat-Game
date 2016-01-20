@@ -1,0 +1,14 @@
+; export.def : Declares the module parameters for the DLL.
+
+LIBRARY      "export"
+DESCRIPTION  'export Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+     LowLevelKeyboardProc
+	 LowLevelMouseProc
+	 ShellProc
+	 CallWndProc
+	 CBTProc
+	 Hook
+	 UnHook
